@@ -7,7 +7,6 @@
 -- two dots ('..' - without quotes).
 
 CREATE TABLE "employees" (
-    "employee_id" int   NOT NULL,
     "emp_no" int   NOT NULL,
     "emp_title_id" string   NOT NULL,
     "birth_date" date   NOT NULL,
